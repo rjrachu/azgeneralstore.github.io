@@ -173,10 +173,10 @@ document.querySelector(".next").addEventListener("click", () => {
 });
 
 // Auto-rotate
-setInterval(() => {
-  currentIndex = (currentIndex + 1) % offers.length;
-  showSlide(currentIndex);
-}, 5000);
+// setInterval(() => {
+//   currentIndex = (currentIndex + 1) % offers.length;
+//   showSlide(currentIndex);
+// }, 5000);
 
 // Initial display
 showSlide(currentIndex);
