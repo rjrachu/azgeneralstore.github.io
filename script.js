@@ -10,7 +10,7 @@ document.querySelector("#home p").innerText = description;
 
 // <!-- Who We Are Section -->
 const affiliatedWith = "Family Shopper";
-const affiliatedLink = "https://www.familyshopper.com"; // link to affiliation
+const affiliatedLink = "https://www.familyshopperstores.co.uk/"; // link to affiliation
 
 const whoWeAreText = `
 AZ General Store Limited is a family-owned business dedicated to providing high-quality products and exceptional customer service.
